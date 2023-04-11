@@ -31,3 +31,4 @@ rebel.xml
 /build/
 .gradletasknamecache
 /venv/
+/.idea/
