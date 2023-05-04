@@ -10,5 +10,4 @@ def solution(participant, competion) :
     for com in competion :
         temp -= hash(com)
     answer = dic[temp]
-
     return answer
